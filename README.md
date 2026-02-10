@@ -12,7 +12,7 @@ Install dependencies and run the app:
 
 ```bash
 npm install
-ng run dev
+npm run dev
 ```
 
 Open localhost link in your browser.
