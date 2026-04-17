@@ -1,5 +1,13 @@
 # React Rich Text Editor Tab Integration
-An example demonstration of the EJ2 React Rich Text Editor with the Syncfusion Tab component integration
+
+Demonstrates seamless integration of Syncfusion Tab component with React Rich Text Editor for enhanced content organization and user experience in web applications.
+
+## Features
+
+- **Tab Component Integration**: Organize Rich Text Editor content across multiple tabs
+- **React-based Solution**: Built with modern React framework and Syncfusion EJ2 components
+- **Interactive Editing**: Full-featured rich text editing with intuitive tabbed interface
+- **Easy Implementation**: Clean example for developers to understand integration patterns
 
 ## Quick start
 
