@@ -35,3 +35,5 @@ Open localhost link in your browser.
 - **Integration UG**: [Tab Integration with React Rich Text Editor](https://ej2.syncfusion.com/react/documentation/rich-text-editor/integrations/tab-integration)
 - **Documentation** - [Getting Started](https://ej2.syncfusion.com/react/documentation/rich-text-editor/getting-started)
 - **Full Featured Demo**: [React Rich Text Editor Overview sample](https://ej2.syncfusion.com/react/demos/#/tailwind3/rich-text-editor/tools)
+
+>Looking for the full React Rich Text Editor component overview, features, pricing, and documentation? Visit the [React Rich Text Editor](https://www.syncfusion.com/react-components/react-rich-text-editor) page.
